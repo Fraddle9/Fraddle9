@@ -1,4 +1,3 @@
-Hi, I'm @Fraddle9
-I'm 21 year's old computer engineer and musician.
-I'm interested in everything about computer and music.
-I'm currently learning Next.js, Solidity and Unity.
+Hi, I'm Recep Akkaya.
+I'm 22 year's old Web Developer and AI Researcher. 
+I'm currently learning .Net, NLP, ML and Solidity.

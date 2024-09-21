@@ -1,6 +1,5 @@
 Hi, I'm Recep Akkaya.
-I'm 22 year's old Web Developer and AI Researcher. 
-I'm currently learning .Net, NLP, ML and Solidity.
+I'm Web Developer and AI Researcher. 
 
-WEB3 Distance Learning Project
+WEB3 Education Portal Project
 https://jind-connect-v2.vercel.app

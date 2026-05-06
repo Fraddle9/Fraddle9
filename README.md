@@ -1,2 +1,1 @@
-Hi, I'm Recep Akkaya.
-Data Engineer, AI and Cloud Researcher
+Fullstack Developer, Game Dev as hobby.
